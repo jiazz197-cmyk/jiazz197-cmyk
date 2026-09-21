@@ -27,28 +27,13 @@
 ## 🛠 技术栈 · Tech Stack
 
 **AI 应用**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/Hybrid%20Retrieval-4B8BBE?style=flat-square&label=%E5%8F%8C%E8%B7%AF%E5%8F%AC%E5%9B%9E%20%2B%20RRF%20%2B%20Rerank)
-![Rerank](https://img.shields.io/badge/BGE--M3-Embedding-4B8BBE?style=flat-square)
-![LLM](https://img.shields.io/badge/Model%20Routing-FF6F00?style=flat-square&label=LLM%20%E8%B7%AF%E7%94%B1%20%E4%B8%8E%20Token%20%E6%B2%BB%E7%90%86)
-![Agent](https://img.shields.io/badge/Agent-ReAct%20%2F%20Function%20Calling-FF6F00?style=flat-square)
+LangChain · LangGraph · Agentic RAG（双路召回 + RRF 融合 + Rerank 精排）· BGE-M3 向量 · ReAct / Function Calling · 多模型路由与 Token 成本治理
 
 **后端与架构**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django%20%2B%20DRF-092E20?style=flat-square&logo=django&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+Python · FastAPI · Django + DRF · CA 分层架构 · Celery 异步任务 · PostgreSQL · Redis · SQL Server
 
 **系统集成 · 部署**
-![U8](https://img.shields.io/badge/ERP%20Integration-6E4C13?style=flat-square&label=%E7%94%A8%E5%8F%8B%20U8%20%2F%20PDM)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Linux](https://img.shields.io/badge/On--site%20Delivery-FCC624?style=flat-square&logo=linux&logoColor=black&label=%E8%A3%B8%E6%9C%BA%E9%83%A8%E7%BD%B2%20%2F%20%E7%8E%B0%E5%9C%BA%E8%81%94%E8%B0%83)
+用友 U8 / PDM 与 SQL Server 集成 · Docker 镜像交付 · ONNX Runtime 边缘推理 · 服务器裸机部署与现场联调
 
 ## 📄 科研成果 · Research
 
