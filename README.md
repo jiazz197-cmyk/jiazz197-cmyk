@@ -2,7 +2,7 @@
 
 # 贾振宇 · Carl Jia
 
-**FDE 方向 ｜ AI 应用落地 · Agentic RAG · 视觉检测**
+**FDE 方向 ｜ AI 应用落地 · Agentic RAG · 智能故障诊断**
 
 上海海事大学 · 控制科学与工程 硕士在读 ｜ 上海
 
